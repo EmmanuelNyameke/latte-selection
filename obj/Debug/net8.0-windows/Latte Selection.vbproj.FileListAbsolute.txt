@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\Latte Selection\bin\Debug\net8.0-windows\Latte Selection.exe
+C:\Users\HELLO\Source\Repos\Latte Selection\bin\Debug\net8.0-windows\Latte Selection.deps.json
+C:\Users\HELLO\Source\Repos\Latte Selection\bin\Debug\net8.0-windows\Latte Selection.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\Latte Selection\bin\Debug\net8.0-windows\Latte Selection.dll
+C:\Users\HELLO\Source\Repos\Latte Selection\bin\Debug\net8.0-windows\Latte Selection.pdb
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\Latte_Selection.frmLatteSelection.resources
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\Latte_Selection.Resources.resources
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\Latte Selection.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\Latte Selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\Latte Selection.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\Latte Selection.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\Latte Selection.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\Latte Selection.dll
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\refint\Latte Selection.dll
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\Latte Selection.pdb
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\Latte Selection.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\Latte Selection\obj\Debug\net8.0-windows\ref\Latte Selection.dll
